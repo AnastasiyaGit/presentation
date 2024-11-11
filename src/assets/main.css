@@ -1,0 +1,6 @@
+@import './base.css';
+@import "bootstrap-icons/font/bootstrap-icons.css";
+body, h1, h2, h3, h5, h6, html {
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-style: normal;
+}
